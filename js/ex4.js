@@ -2,7 +2,7 @@ const word_list=[];
 let word_prompt=prompt('Enter any word: ');
 
 if(word_prompt.toLowerCase()=='stop'){
-    console.log('No more words to display, Stop was the first word entered.');
+    console.log('No words to display, Stop was the first word entered.');
 }
 
 
