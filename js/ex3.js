@@ -10,8 +10,8 @@ console.log(`Sum of all array values is=${sum} `);
 
 //Minimum value
 let min_val=Math.min(...values);
-console.log(`${min_val}`);
+console.log(`Minimum value in array is=${min_val}`);
 
 // Maximum Value
 let max_val=Math.max(...values);
-console.log(`${max_val}`);
+console.log(`Maximum value in array is=${max_val}`);
