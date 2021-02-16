@@ -12,7 +12,7 @@ function calculate(num1,num2){
 
         case '-':
             console.log(`${num1},${num2},${operator}`);
-            let subtract=num1+num2;
+            let subtract=num1-num2;
             console.log(`${num1} - ${num2}=${subtract}`);
             break;
         case '*':
